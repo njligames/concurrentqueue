@@ -25,3 +25,4 @@ tests/relacy/freelist.exe
 tests/relacy/spmchash.exe
 tests/relacy/log.txt
 *.DS_Store
+_build/
